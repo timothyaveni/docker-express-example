@@ -1,0 +1,11 @@
+{
+  "name": "docker-flask-example",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "dependencies": {
+    "better-sqlite3": "^9.1.1",
+    "express": "^4.18.2",
+    "pg": "^8.11.3"
+  }
+}
